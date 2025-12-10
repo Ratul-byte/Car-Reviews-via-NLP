@@ -25,7 +25,7 @@ Features implemented in the notebook
   - Uses `evaluate` metrics: `toxicity` and `regard` to assess generated summaries.
 
 Quick Demo
-- Head to this Google Colab and upload the notebook and data files to run the notebook in your browser.
+- Head to Google Colab and upload the notebook and data files to run the notebook in your browser.
 
 Files & paths
 - Notebook: `llm.ipynb`
