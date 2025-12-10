@@ -1,4 +1,4 @@
-# Car Reviews via LLMs (Prototype)
+# Car Reviews via NLP (Prototype)
 <img src="car.jpeg">
 
 This repository contains a Jupyter notebook (`llm.ipynb`) that prototypes a chatbot/assistant using multiple pre-trained Hugging Face models to process car reviews and customer text. The notebook demonstrates several NLP functionalities useful for both customers and human agents.
